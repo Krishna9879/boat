@@ -86,11 +86,123 @@
 .bar2{
 height: 4rem;
 width: 100%;
-background-color: rgb(244, 250, 250);
+background-color: rgb(236, 240, 240);
   
 }
 .warrentyi{
     height: 3.5rem;
     position: absolute;
     left:4rem;
+}
+.warrentyt{
+    position: absolute;
+    left: 8rem;
+    top: 46.5rem;
+}
+.replacei{
+    height: 3.5rem;
+    position: absolute;
+    left:19rem;
+}
+.replacet{
+    position: absolute;
+    left: 23rem;
+    top: 46.5rem;
+}
+.deliveryi{
+    height: 3.5rem;
+    position: absolute;
+    left:38rem;
+}
+.deliveryt{
+    position: absolute;
+    left: 42rem;
+    top: 46.7rem;
+}
+.gsti{
+    height: 3.5rem;
+    position: absolute;
+    left:55rem;
+}
+.gstt{
+    position: absolute;
+    left: 59rem;
+    top: 46.7rem;
+}
+.text4{
+    font-size:1.8rem ;
+    position: absolute;
+    left: 5rem;
+    top:52rem ;
+}
+.pinkimg{
+    position: absolute;
+    top:55rem ;
+    width: 95%;
+    left: 2rem;
+    border-radius: .5rem;
+}
+
+.body71{
+     height: 19rem;
+     width: 13rem;
+     background-color: rgb(203, 222, 237);
+     position:relative;
+     top: 16rem;
+     left:rem;
+    border-radius: .5rem;
+}
+.yellow71{
+     height: 13rem;
+     width: 13rem;
+     background-color: rgb(237, 249, 2);
+     position: relative;
+     top: 0rem;
+     left: 0rem;
+    border-radius: 1rem;
+}
+.img71{
+    height: 11rem;
+    width: 13rem;
+    border-top-left-radius: .5rem;
+    border-top-right-radius: .5rem;
+}
+.text5{
+   font-weight: 900;
+   position: relative;
+   top:1rem;
+   left: 1.3rem;
+}
+.dotted{
+    position: relative;
+    left: .5rem;
+    top: 1rem;
+}
+.price{
+    position: relative;
+    top: 1.5rem;
+    left: 1.5rem;
+    font-weight:900;
+}
+.circle1{
+    height: 1rem;
+    width: 1rem;
+    background-color: rgb(250, 251, 251);
+    border-radius: 3rem;
+    position: relative;
+    left: 9rem;
+    top: .5rem;
+}
+.circle2{
+    height: 1rem;
+    width: 1rem;
+    background-color: rgb(0, 8, 8);
+    border-radius: 3rem;
+    position: relative;
+    left: 9.6rem;
+    top:-.5rem ;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
 }
