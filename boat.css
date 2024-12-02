@@ -1,0 +1,96 @@
+.grey{
+    background-color: rgb(229, 237, 245);
+    width: 100%;
+    height: 2.5rem;
+    opacity: 90%;
+}
+.t1{
+    color: black;
+    position: relative;
+    top: 1rem;
+    left: 29rem;
+    opacity: 100%;
+}
+.nav{
+    border-bottom: 1px solid;
+    border-color: grey;
+    height:6rem ;
+}
+.boat{
+    position: relative;
+    top: 1.5rem;
+}
+.cate{
+    font-size:1.4rem;
+    position: absolute;
+    left: 17rem;
+    top:5.2rem;
+    
+}
+.person{
+    font-size:1.4rem;
+    position: absolute;
+    left: 25rem;
+    top:5.2rem;
+    
+}
+.corp{
+    font-size:1.4rem;
+    position: absolute;
+    left: 39rem;
+    top:5.2rem;
+    
+}
+.more{
+    font-size:1.4rem;
+    position: absolute;
+    left: 51rem;
+    top:5.2rem;
+    
+}
+.search{
+    height: 2.5rem;
+    width: 16rem;
+    background-color:rgb(232, 232, 232);
+    position: absolute;
+    top: 5rem;
+    right: 9rem;
+    
+    border-radius: 5rem;
+
+}
+
+.fa-magnifying-glass{
+  font-size: 1.3rem;
+  position: absolute;
+  right: 22.5rem;
+  top: 5.6rem;
+  color: black;
+}
+.t2{
+    position:absolute;
+    right: 13rem;
+
+}
+.user{
+    height: 2rem;
+    position: absolute;
+    top: 5rem;
+    right: 6rem;
+}
+.image1{
+    padding: 0px 0px 0px 0px ;
+    margin: 0px 0px 0px 0px ;
+}
+
+.bar2{
+height: 4rem;
+width: 100%;
+background-color: rgb(244, 250, 250);
+  
+}
+.warrentyi{
+    height: 3.5rem;
+    position: absolute;
+    left:4rem;
+}
