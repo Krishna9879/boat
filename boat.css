@@ -206,3 +206,9 @@ background-color: rgb(236, 240, 240);
     display: flex;
     justify-content: space-around;
 }
+.title2{
+    position: absolute;
+    top: 88rem;
+    font-size: 2rem;
+    left: 2rem;
+}
